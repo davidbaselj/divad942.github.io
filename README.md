@@ -1,4 +1,3 @@
-divad942.github.io
+Personal web page
 ==================
-
-Personal web site
+WORK IN PROGRESS
